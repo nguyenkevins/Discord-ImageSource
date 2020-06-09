@@ -22,7 +22,6 @@ and Websocket Events. The library allows the coder to create useful tool that pr
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details.
 
 ## Acknowledgments
-* David Nixon - Taught me CSS143, which contains content such as Data Structure and File IO.
 * Discord API - Providing a useful library to easily develop Discord bots while using Java
 * Discord Meme Bot - Huge Inspiration
 
