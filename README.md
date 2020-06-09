@@ -1,4 +1,4 @@
-# Discord Image Source (Desktop)
+# Image Bot (Desktop)
 
 ### Currently in-progress / 95% Completion
 
